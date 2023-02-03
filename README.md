@@ -1,2 +1,2 @@
 # Practice_fork
-SECOND ONE
+hi hello
